@@ -2,8 +2,6 @@
  
 Perkenalkan nama saya **Jordan Kelvin Alyan Firdaus**.<br>
  
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
- 
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/ANTONIMPressure">
